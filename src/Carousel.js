@@ -8,16 +8,16 @@ const DemoCarousel = () => {
     return (
         <Carousel>
             <div>
-                <img src={image1} />
+                <img src={image1} alt=""/>
                 <p className="legend">Truck Driving Man</p>
 
             </div>
             <div>
-                <img src={image2} />
+                <img src={image2} alt=""/>
                 <p className="legend">Covid-19</p>
             </div>
             <div>
-                <img src={image3} />
+                <img src={image3} alt=""/>
                 <p className="legend">CPU</p>
             </div>
         </Carousel>
