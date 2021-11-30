@@ -2,7 +2,7 @@
   --dark: #292725;
   --highlightDark: #002323;
   --highlightLight: #AF5315;
-  --light: #FFCFA0
+  --light: #FFCFA0;
 }
 
 body {
@@ -69,9 +69,11 @@ img {
   transition: .1s linear;
 }
 
-.navbarLink:hover {
-  transition: .1s linear;
-  background-color: var(--highlightLight);
+@media (hover: hover) {
+  .navbarLink:hover {
+    transition: .1s linear;
+    background-color: var(--highlightLight);
+  }
 }
 
 .active {
