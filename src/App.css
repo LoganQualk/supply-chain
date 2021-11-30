@@ -1,23 +1,70 @@
-/* .App {
-  text-align: center;
+:root {
+  --dark: #292725;
+  --highlightDark: #002323;
+  --highlightLight: #AF5315;
+  --light: #FFCFA0
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body {
+  background-color: var(--light);
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+#navbar {
+  background-color: var(--dark);
   color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2rem;
+  height: 4rem;
 }
 
-.App-link {
-  color: #61dafb;
-} */
+#links {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+#navbarTitle {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+}
+
+.navbarLink {
+  line-height: 4rem;
+  padding: 0 1rem;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: bold;
+  transition: .1s linear;
+}
+
+.navbarLink:hover {
+  transition: .1s linear;
+  background-color: var(--highlightLight);
+}
+
+#container {
+  padding: 2rem;
+  display: flex;
+  justify-content: center;
+}
+
+.content {
+  width: 1000px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: var(--dark);
+  font-size: 3rem;
+  text-transform: uppercase;
+}
