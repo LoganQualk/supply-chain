@@ -9,7 +9,7 @@ const DemoCarousel = () => {
         <Carousel>
             <div>
                 <img src={image1} alt=""/>
-                <p className="legend">Truck Driving Man</p>
+                <p className="legend">Trucker</p>
 
             </div>
             <div>
