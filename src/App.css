@@ -114,6 +114,7 @@ p {
   font-size: 1.25rem;
   max-width: 75ch;
   text-align: justify;
+  margin: 2rem 0rem
 }
 
 .centerText {
