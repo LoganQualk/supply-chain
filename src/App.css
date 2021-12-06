@@ -9,10 +9,14 @@ body {
   background-color: var(--light);
 }
 
-img {
+.carouselImg {
   width: auto;
   height: 30rem;
   object-fit: cover;
+}
+
+img {
+  height: 100%;
 }
 
 .thumb img {
@@ -135,8 +139,8 @@ p {
   color: var(--dark);
   font-size: 1.25rem;
   max-width: 75ch;
-  text-align: center;
   margin: 0 0 1.5rem 0;
+  white-space: pre-wrap;
 }
 
 .legend {
@@ -154,6 +158,14 @@ p {
 #expandNavButton:hover {
   filter: invert(.5);
   transition: .1s linear;
+}
+
+.dualContent {
+  width: 150ch;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 1.5rem;
 }
 
 @media only screen and (max-width: 1300px) {
