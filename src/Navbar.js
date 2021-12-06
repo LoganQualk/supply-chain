@@ -9,7 +9,7 @@ const Navbar = () => {
         <nav id={"navbar"} className={hidden && 'hidden'}>
             <div id="navPages">
                 <div id="navOverallControls">
-                    <Link id="navbarTitle" to="/" exact>COMP 380 Project</Link>
+                    <Link id="navbarTitle" to="/" exact>The Supply Chain</Link>
                     <img src={hamburgerIcon} id="expandNavButton" alt="expandNavButton" onClick={() => {
                         setHidden(!hidden);
                     }}></img>

@@ -2,7 +2,12 @@ const DeepDive = () => {
     return ( 
         <div className="container">
             <h1>Deep Dive</h1>
-            <p className="centerText">Placeholder text</p>
+            <h3>What caused the downfall of the supply chain?</h3>
+            <p>Placeholder text</p>
+            <h3>What have the major effects been?</h3>
+            <p>Placeholder text</p>
+            <h3>How widespread are the supply chain issues?</h3>
+            <p>Placeholder text</p>
         </div>
      );
 }
