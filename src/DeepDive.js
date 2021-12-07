@@ -65,6 +65,23 @@ const DeepDive = () => {
                 Another factor that attributed and still has its grasp on this portion of society is the mining of crypto currency.  
                 This has caused finding a new GPU (or Graphics Processing Unit) incredibly difficult and pricey with regular consumers having to pay double or triple the normal, and already expensive, prices.
             </p>
+            <h3>Crypto and GPUs</h3>
+            <p>
+                We have all heard by now the plight that Crypto mining has had on the graphics card market.  
+                The way that mining Crypto works is pretty simple.  
+                Basically, people enlist the use of graphics cards to solve varying problems and in turn they are given percentages of coins or money.  
+                After a decently short amount of time, these GPUs are basically of no use and will die and they are discarded.  
+                This is one of the main reasons the market is suffering so heavily and why the prices are so high because people that are mining can afford to buy these overpriced components.  
+                The problem lies in that the average consumer now finds it difficult to both find a graphics card and to have the expendable income to purchase one.  
+            </p>
+            <p>
+                Even though this problem seems to be having a short lifespan, expecting to make a full recovery before 2022-2023 as <a href="https://www.theseus.fi/bitstream/handle/10024/503619/Hajdu_Nandor.pdf?sequence=2">Hajdu</a> says, at the current time it is a massive issue.  
+            </p>
+            <p>
+                An example of issues that consumers are dealing with are talked about <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3922181">here</a> by Linus Wilson where they discuss that upon release of the entire 3000 series by NVIDIA.  
+                They talk about how quickly the new cards sold out as they were "immediately, these GPUs were unavailable at most retailers and were scalped for much more than their launch prices on eBay and Stockx".  
+                With bans of mining in China and NVIDIA attempting to catch up, hopefully by 2022 the market for these powerful and necessary computer components will return back to normal.  
+            </p>
         </div>
     );
 }
