@@ -19,7 +19,6 @@ const About = () => {
             </div>
             <h3>Logan Qualkenbush - <a href='mai&#108;t&#111;&#58;&#108;%6Fg&#97;%6&#69;%71&#64;li&#37;76e&#46;%7&#53;%&#54;E%&#54;&#51;%2E%6&#53;d%75'>lo&#103;anq&#64;&#108;ive&#46;&#117;nc&#46;&#101;du</a></h3>
             <div className="imageContentLeft">
-
                 <p>
                     Hello! My name is Logan Qualkenbush and I am a senior majoring in Computer Science and Information and Library Science with a minor in Cognitive Science.
                     As someone with their main hobby being PC gaming, I have greatly felt the effects of the supply chain first hand.

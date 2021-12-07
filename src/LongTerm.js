@@ -29,7 +29,8 @@ const LongTerm = () => {
                         Lastly, they ponder the idea of a "go-slow" approach.  In this, restrictions would slowly be lifted over time, until
                         we are back to normal.  The hope for this is that it wouldn't cause any massive spikes in Covid, thus not exacerbating
                         supply chain issues.  As the restrictions are lifted, global production would slowly ramp up and shipping times
-                        would continue to decrease.  At the end of the day, supply chain issues, especiall
+                        would continue to decrease.  At the end of the day, the supply chain, especially regarding computing technologies,
+                        is an extremely tricky topic that doesn't have an easy fix.
                     </p>
                 </div>
 

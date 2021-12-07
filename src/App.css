@@ -1,8 +1,8 @@
 :root {
   --dark: #292725;
-  --highlightDark: #71b4b4;
-  --highlightLight: #AF5315;
-  --light: #FFCFA0;
+  --highlightLighter: #f175d6;
+  --highlightLight: #b42194;
+  --light: #bbd1c9;
 }
 
 body {
@@ -56,7 +56,7 @@ img {
   font-size: 1.8rem;
   text-transform: uppercase;
   padding-left: 1rem;
-  background: linear-gradient(45deg, white 20%, var(--light) 30%, var(--light) 70%, white 80%);
+  background: linear-gradient(45deg, white 20%, var(--highlightLighter) 30%, var(--highlightLighter) 70%, white 80%);
   background-size: 200% auto;
   background-clip: text;
   text-fill-color: transparent;

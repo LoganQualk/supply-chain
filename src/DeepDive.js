@@ -38,7 +38,7 @@ const DeepDive = () => {
             <h3>What have the major effects been?</h3>
             <p>
                 To understand what the effects have been, we must know how the supply chain itself works.
-                This living and breathing system is best thought of as a "newtork of connected and interdependent organizations mutually and co-operatively working together or a system that
+                This living and breathing system is best thought of as a "network of connected and interdependent organizations mutually and co-operatively working together or a system that
                 consists of all parties involved, directly or indirectly, in fulfilling a customer request" as explained
                 by <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/jscm.12248">Andreas Wieland</a>.
                 Thinking about it, this definition makes total sense and must be taken into consideration when the idea of this complex system coined "The Supply Chain" comes to mind.

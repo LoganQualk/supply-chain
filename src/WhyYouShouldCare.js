@@ -14,8 +14,7 @@ const WhyYouShouldCare = () => {
             <div className="imageContentRight">
                 <img src={image1} style={{height: '20ch'}} alt="Cute small white dog in a red sweater sitting by the fireplace" />
                 <p>
-                    All products have greatly reduced in their availability.
-                    Toiler paper, technology, and even cute sweaters and hats for your pet dogs (y'know because tis the holiday season and they deserve to be festive too).
+                    So many products have greatly reduced availability, including toilet paper, technology, and even cute sweaters and hats for your pet dogs (y'know, because tis the holiday season and they deserve to be festive too).
                     These products have all felt the shift in the supply chain as they have increased in not only price but also scarcity.
                     The issues that we currently face with the supply chain can effect the future of consumerism, chaning how we shop for and receive itmes for the forseeable future.
                 </p>

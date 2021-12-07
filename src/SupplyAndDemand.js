@@ -34,8 +34,6 @@ const SupplyAndDemand = () => {
                 </p>
             </div>
 
-
-
             <h3>Has demand changed at all?</h3>
             <p>
                 As we know, supply only matters in the context of consumer demand.  Unfortunately, the pandemic has only
