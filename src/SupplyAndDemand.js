@@ -1,4 +1,5 @@
 import supplyVsDemand from './Content/supplyVsDemand.jpg'
+import ppi from './Content/ppi.png'
 
 const SupplyAndDemand = () => {
     return (
@@ -6,32 +7,33 @@ const SupplyAndDemand = () => {
             <h1>Supply and Demand</h1>
 
             <h3>How bad has supply been, really?</h3>
-            <div className="imageContentLeft">
-                <p>
-                    It's easy to believe that the supply chain issues are overblown if they are not affecting you directly.
-                    Around the time of the beginning of the pandemic, supply was terrible for everyone.  Nobody knew how to
-                    deal with Covid, so many manufacturers and producers were stopping operations.  Getting products shipped from
-                    retailers became a nightmare.  However, as the pandemic went on, and we learned more and more about how Covid
-                    was spread, the supply issues started to improve for most people.  Slowly, Amazon packages went back to 2-day
-                    shipping, and thus the supply chain issues were no longer an issue on the forefront of people's minds.
-                </p>
-                <img src={supplyVsDemand} alt={supplyVsDemand} />
-            </div>
+            <p>
+                It's easy to believe that the supply chain issues are overblown if they are not affecting you directly.
+                Around the time of the beginning of the pandemic, supply was terrible for everyone.  Nobody knew how to
+                deal with Covid, so many manufacturers and producers were stopping operations.  Getting products shipped from
+                retailers became a nightmare.  However, as the pandemic went on, and we learned more and more about how Covid
+                was spread, the supply issues started to improve for most people.  Slowly, Amazon packages went back to 2-day
+                shipping, and thus the supply chain issues were no longer an issue on the forefront of people's minds.
+            </p>
             <p>
                 So, problem solved?  The supply chain issues have been fixed, right?  Not exactly.  While supply for most
                 products has been vastly improved, supply for computing technologies is still terrible.  Trying to buy
                 products such as gaming consoles, computers, and graphics cards is almost impossible right now.  There is
                 simply not enough supply to go around.
             </p>
-            <p>
-                One statistic that helps visualize these production problems is PPI, or producer price index.  This is used
-                to measure the difference in selling prices received by domestic producers over time.  Thus, a high PPI
-                shows that there has been higher selling prices from producers, which is indicative of supply
-                issues.  In <a href="https://www.cnbc.com/2021/11/10/big-business-bosses-are-warning-that-supply-chain-issues-and-inflation-are-here-to-stay.html">this</a> CNBC
-                article, Elliot Smith goes over the increasing supply challenges.  He states that the Chinese PPI has
-                increased 13.5% annually and the U.S. PPI has increased 8.6% annually (from this last October).  Both of these
-                are all time records, showing just how insane these supply issues have been.
-            </p>
+            <div className="imageContentRight">
+                <img src={ppi} alt={ppi} />
+                <p>
+                    One statistic that helps visualize these pro duction problems is PPI, or producer price index.  This is used
+                    to measure the difference in selling prices received by domestic producers over time.  Thus, a high PPI
+                    shows that there has been higher selling prices from producers, which is indicative of supply
+                    issues.  In <a href="https://www.cnbc.com/2021/11/10/big-business-bosses-are-warning-that-supply-chain-issues-and-inflation-are-here-to-stay.html">this</a> CNBC
+                    article, Elliot Smith goes over the increasing supply challenges.  He states that the Chinese PPI has
+                    increased 13.5% annually and the U.S. PPI has increased 8.6% annually (from this last October).  Both of these
+                    are all time records, showing just how insane these supply issues have been.
+                </p>
+            </div>
+
 
 
             <h3>Has demand changed at all?</h3>
@@ -45,8 +47,7 @@ const SupplyAndDemand = () => {
             </p>
 
             <h3>How do these issues affect the everyday consumer?</h3>
-            <div className="imageContentRight">
-                <img src={supplyVsDemand} alt={supplyVsDemand} />
+            <div className="imageContentLeft">
                 <p>
                     The combination of low supply and high demand has had massive implications for everyday consumers.  Prices of
                     technological components has soared, and that's assuming you can find them in stock at all.  These issues
@@ -55,6 +56,7 @@ const SupplyAndDemand = () => {
                     these products for a vastly increased price.  Unless you are willing to pay these exorbitant prices,
                     it is almost impossible to get things like gaming consoles or graphics cards these days.
                 </p>
+                <img src={supplyVsDemand} alt={supplyVsDemand} style={{ height: '25ch' }} />
             </div>
 
             <p>
