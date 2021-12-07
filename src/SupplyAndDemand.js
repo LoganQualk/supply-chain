@@ -69,7 +69,7 @@ const SupplyAndDemand = () => {
             <h3>How are these issues different than supply and demand issues in the past?</h3>
             <p>
                 Problems with the supply chain is not a new concept.  There is a long history of the supply chain having
-                issues, so what makes these Covid supply chain issues different from those in the past.  Craighead, Ketchen Jr.,
+                issues, so what makes these Covid supply chain issues different from those in the past?  Craighead, Ketchen Jr.,
                 and Ferguson discuss this in their
                 article <a href="https://onlinelibrary.wiley.com/doi/full/10.1111/deci.12468">Pandemics and
                     Supply Chain Management Research: Toward a Theoretical Toolbox</a>.  Essentially, there are three main differences

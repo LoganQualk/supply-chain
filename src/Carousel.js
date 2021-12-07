@@ -9,16 +9,16 @@ const DemoCarousel = () => {
         <Carousel>
             <div>
                 <img src={image1} alt="African America woman driving a semi truck in the snow"/>
-                <p className="legend">Truckers often have to deal with stressful or high risk situations such as snow.</p>
+                <p className="legend">Trucker shortages have greatly exacerbated the supply chain issues.</p>
 
             </div>
             <div>
                 <img src={image2} alt="COVID-19 molecule"/>
-                <p className="legend">COVID-19 has been a catalyst for supply chain issues.</p>
+                <p className="legend">COVID-19 was the catalyst for the supply chain downfall, but not the only reason.</p>
             </div>
             <div>
                 <img src={image3} alt="CPU being placed into a motherboard"/>
-                <p className="legend">Technology across the board have all felt tremendous issues with the supply chain crisis.</p>
+                <p className="legend">Technology across the board has had tremendous issues adapting to the supply chain crisis.</p>
             </div>
         </Carousel>
     );
