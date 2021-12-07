@@ -2,7 +2,7 @@ import image1 from "./Content/Truck-Driving-in-Storm.jpg";
 
 const DeepDive = () => {
     return (
-        <div className="container">
+        <div className="content">
             <h1>Deep Dive</h1>
             <h3>What caused the downfall of the supply chain?</h3>
             <p className="centerText">

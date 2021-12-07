@@ -1,6 +1,6 @@
 const LongTerm = () => {
     return (
-        <div className="container">
+        <div className="content">
             <h1>Long-Term</h1>
             <h3>How will the supply chain issues end?</h3>
             <p>

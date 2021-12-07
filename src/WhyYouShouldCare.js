@@ -1,6 +1,6 @@
 const WhyYouShouldCare = () => {
     return ( 
-        <div className="container">
+        <div className="content">
             <h1>Why You Should Care</h1>
             <h3>Who does it affect?</h3>
             <p>
