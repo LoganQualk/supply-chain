@@ -15,6 +15,7 @@ const Home = () => {
                 They have faced extreme difficulties when attempting to replace or upgrade any technological components.
                 In this project, we will investigate the reasons behind these complications and how this will affect society long-term.
             </p>
+            <h3>Take Our Quiz!</h3>
             <div>
             <iframe id="interactApp61aeb8c11cb0b60018b37cb3" width="800" height="800" style={{"border" :"none", "max-width":"100%", "margin":"0"}} allowTransparency="true" frameborder="0" 
             src="https://quiz.tryinteract.com/#/61aeb8c11cb0b60018b37cb3?method=iframe"></iframe>

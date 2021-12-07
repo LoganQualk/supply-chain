@@ -9,16 +9,16 @@ const DemoCarousel = () => {
         <Carousel>
             <div>
                 <img src={image1} alt=""/>
-                <p className="legend">Trucker (placeholder)</p>
+                <p className="legend">Trucker</p>
 
             </div>
             <div>
                 <img src={image2} alt=""/>
-                <p className="legend">Covid-19 (placeholder)</p>
+                <p className="legend">Covid-19</p>
             </div>
             <div>
                 <img src={image3} alt=""/>
-                <p className="legend">CPU (placeholder)</p>
+                <p className="legend">CPU</p>
             </div>
         </Carousel>
     );
