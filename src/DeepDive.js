@@ -79,7 +79,7 @@ const DeepDive = () => {
                 Even though this problem seems to be having a short lifespan, expecting to make a full recovery before 2022-2023 as <a href="https://www.theseus.fi/bitstream/handle/10024/503619/Hajdu_Nandor.pdf?sequence=2">Hajdu</a> says, at the current time it is a massive issue.
             </p>
             <div className="imageContentRight">
-                <img src={image2} alt="" />
+                <img src={image2} alt="Person looking at prices of cryptocurrency over time" />
                 <p>
                     An example of issues that consumers are dealing with are talked about <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3922181">here</a> by Linus Wilson where they discuss that upon release of the entire 3000 series by NVIDIA.
                     They talk about how quickly the new cards sold out as they were "immediately, these GPUs were unavailable at most retailers and were scalped for much more than their launch prices on eBay and Stockx".
