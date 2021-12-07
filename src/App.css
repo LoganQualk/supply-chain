@@ -9,14 +9,10 @@ body {
   background-color: var(--light);
 }
 
-.carouselImg {
+img {
   width: auto;
   height: 30rem;
   object-fit: cover;
-}
-
-img {
-  height: 100%;
 }
 
 .thumb img {
