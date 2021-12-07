@@ -12,7 +12,7 @@ const WhyYouShouldCare = () => {
                 There have been increases in delivery time for almost all products and an increase in cost.
             </p>
             <div className="imageContentRight">
-                <img src={image1} alt="Cute small white dog in a red sweater sitting by the fireplace" />
+                <img src={image1} style={{height: '20ch'}} alt="Cute small white dog in a red sweater sitting by the fireplace" />
                 <p>
                     All products have greatly reduced in their availability.
                     Toiler paper, technology, and even cute sweaters and hats for your pet dogs (y'know because tis the holiday season and they deserve to be festive too).
