@@ -16,7 +16,7 @@ const Home = () => {
             </p>
             <h3>Take Our Quiz!</h3>
             <div>
-            <iframe id="interactApp61aeb8c11cb0b60018b37cb3" width="800" height="800" style={{"border" :"none", "max-width":"100%", "margin":"0"}} allowTransparency="true" frameborder="0" 
+            <iframe title="Quiz" id="interactApp61aeb8c11cb0b60018b37cb3" width="800" height="800" style={{"border" :"none", "max-width":"100%", "margin":"0"}} allowTransparency="true" frameborder="0" 
             src="https://quiz.tryinteract.com/#/61aeb8c11cb0b60018b37cb3?method=iframe"></iframe>
             </div>
 

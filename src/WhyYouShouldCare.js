@@ -26,7 +26,7 @@ const WhyYouShouldCare = () => {
                 It will lead to increased performance of manufacturers but the pandemic is predicted to having long lasting effects on the global production society.
             </p>
             <h3>Answer questions about how it has affected you!</h3>
-            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSevIE1HQaJpiexBIBFdM30orrfQ_GyGx_bf49YEXEGN5jB4wQ/viewform?embedded=true" id="googleForm" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+            <iframe title="GoogleForm" src="https://docs.google.com/forms/d/e/1FAIpQLSevIE1HQaJpiexBIBFdM30orrfQ_GyGx_bf49YEXEGN5jB4wQ/viewform?embedded=true" id="googleForm" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </div>
     );
 }
