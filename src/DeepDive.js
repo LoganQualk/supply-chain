@@ -5,7 +5,7 @@ const DeepDive = () => {
     return (
         <div className="content">
             <h1>Deep Dive</h1>
-            <h3>What caused the downfall of the supply chain?</h3>
+            <h3>Trucking and the Supply Chain</h3>
             <div className="imageContentLeft">
                 <p>
                     Issues with the supply chain due to covid will no doubt have long term affects on society as a whole.
@@ -33,7 +33,8 @@ const DeepDive = () => {
                 As this is rarely compensated for and can be extremly difficult to deal with, this piles onto just a few of the reasons this job has more risk than reward.
                 This makes it easy to see why many people would not begin to consider this job and why many would quit.
             </p>
-
+            <iframe style={{'width': '600px', 'maxWidth': '100%', 'marginBottom': '1.5rem'}} height="315" src="https://www.youtube.com/embed/eR7SvZgytVk" title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <h3>What have the major effects been?</h3>
             <p>
                 To understand what the effects have been, we must know how the supply chain itself works.
