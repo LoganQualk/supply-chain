@@ -15,7 +15,12 @@ const WhyYouShouldCare = () => {
                 These products have all felt the shift in the supply chain as they have increased in not only price but also scarcity.  
                 The issues that we currently face with the supply chain can effect the future of consumerism, chaning how we shop for and receive itmes for the forseeable future.
             </p>
-            
+            <p>
+                With the current standing of the supply chain, the general population is struggling.  
+                Companies are forced to cut down on how many employees they are capable of having due to health restrictions but also because the amount of reduced materials.  
+                COVID-19 has put many companies in difficult spots but will inevitably cause the industry to evolve and improve.  
+                It will lead to increased performance of manufacturers but the pandemic is predicted to having long lasting effects on the global production society.
+            </p>
         </div>
      );
 }
