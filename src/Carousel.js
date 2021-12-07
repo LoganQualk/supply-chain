@@ -8,17 +8,17 @@ const DemoCarousel = () => {
     return (
         <Carousel>
             <div>
-                <img src={image1} alt=""/>
-                <p className="legend">Trucker</p>
+                <img src={image1} alt="African America woman driving a semi truck in the snow"/>
+                <p className="legend">Truckers often have to deal with stressful or high risk situations such as snow.</p>
 
             </div>
             <div>
-                <img src={image2} alt=""/>
-                <p className="legend">Covid-19</p>
+                <img src={image2} alt="COVID-19 molecule"/>
+                <p className="legend">COVID-19 has been a catalyst for supply chain issues.</p>
             </div>
             <div>
-                <img src={image3} alt=""/>
-                <p className="legend">CPU</p>
+                <img src={image3} alt="CPU being placed into a motherboard"/>
+                <p className="legend">Technology across the board have all felt tremendous issues with the supply chain crisis.</p>
             </div>
         </Carousel>
     );
