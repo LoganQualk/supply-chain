@@ -1,9 +1,3 @@
-import image1 from './Content/what-is-supply-chain-management.png';
-import image2 from './Content/Truck-Driving-in-Storm.jpg';
-import image3 from './Content/trucker.jpg';
-import image4 from './Content/coronavirus-2.jpg';
-import image5 from './Content/CPU.jpg';
-
 const About = () => {
     return ( 
         <div className="content">
@@ -38,6 +32,8 @@ const About = () => {
             <a href="https://unsplash.com/photos/gKo1LhXErak">https://unsplash.com/photos/gKo1LhXErak</a>
             <a href="https://unsplash.com/">https://unsplash.com/</a>
             <a href="https://unsplash.com/s/photos/cpu">https://unsplash.com/s/photos/cpu</a>
+            <a href="https://unsplash.com/photos/9opiHRPIvR0">https://unsplash.com/photos/9opiHRPIvR0</a>
+            <a href="https://unsplash.com/photos/JKT_bM_iQxs">https://unsplash.com/photos/JKT_bM_iQxs</a>
         </div>
      );
 }
